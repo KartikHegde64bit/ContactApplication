@@ -1,5 +1,7 @@
 # ContactApplication
 
+NOTE: This is not yet complete.
+
 =========== Required Python Modules ===================
 
 1. flask
