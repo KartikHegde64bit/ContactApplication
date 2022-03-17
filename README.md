@@ -1,6 +1,6 @@
 # ContactApplication
 
-NOTE: This is not yet complete.
+NOTE: For Working version see master branch!
 
 =========== Required Python Modules ===================
 
